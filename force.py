@@ -1,4 +1,4 @@
-print("Newton's Second Law of Motion")
+print("Newton's  Law of Motion")
 print("Force is the product of mass into acceleration")
 
 #Determine the missing value
